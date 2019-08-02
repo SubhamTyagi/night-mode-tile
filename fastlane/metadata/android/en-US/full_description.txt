@@ -1,0 +1,3 @@
+A shortcut to night mode via Tiles,
+
+Many android devices doesn't explicitly have the night mode by this app you can enable or disable night mode. 

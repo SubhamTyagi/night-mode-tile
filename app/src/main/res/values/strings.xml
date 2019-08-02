@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Night Mode</string>
+    <string name="info">By this App you can change the system themes
+        settings that are sometimes(eg. MIUI) not accessible via the system settings
+        </string>
+    <string name="warn">Some devices manufacturers might
+        have disabled the android DayNight themes on their devices.
+        Therefore, this App wont work on these devices.
+       </string>
+    <string name="night_mode">Night</string>
+    <string name="night_mode_tile">Night mode</string>
+    <string name="auto">Auto</string>
+    <string name="day_mode">Day</string>
+    <string name="action_Settings">Settings</string>
+</resources>
